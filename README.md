@@ -27,10 +27,3 @@ Hoje, estou aplicando essa mesma mentalidade focada em processos e resultados pa
   <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black">
   <img src="https://img.shields.io/badge/n8n-1A1A1A?style=for-the-badge&logo=n8n&logoColor=white">
 </div>
-
-<br>
-
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kauan-Vieira&show_icons=true&theme=tokyonight&hide_rank=true&hide_title=true&locale=pt-br&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kauan-Vieira&layout=compact&theme=tokyonight&locale=pt-br&hide_border=true)
